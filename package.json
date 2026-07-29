@@ -3,8 +3,12 @@
   "displayName": "NetworkX Graph Viewer",
   "description": "Interactive 3D viewer for networkx graphs exported as node-link JSON (*.graph.json)",
   "version": "0.2.0",
-  "publisher": "ajith",
+  "publisher": "ajithmoola",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajithmoola/graph-viz.git"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
